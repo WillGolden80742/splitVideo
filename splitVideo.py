@@ -19,9 +19,10 @@ single_duration=current_duration+1
 while (single_duration>current_duration):
     try:
         single_duration = int(input("Enter the limit of seconds that each video must have :\n"))
-        if single_duration > current_duration:
+        if single_duration > current_duration or single_duration == 0:
             os.system('clear')
-            print ("The seconds must be at least less than the total seconds of the video")
+            print ("The seconds must be at least less than the total seconds of the video or different from 0")
+            single_duration=current_duration+1
     except Exception as e:
         os.system('clear')
         print("Enter an integer")
