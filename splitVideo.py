@@ -1,6 +1,4 @@
 from moviepy.editor import VideoFileClip
-from time import sleep
-from datetime import datetime
 import os
 
 full_video = str(input("\nInsert file path of video :\n"))
