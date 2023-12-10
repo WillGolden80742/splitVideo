@@ -12,8 +12,8 @@ This Python script utilizes the `moviepy` library to split a given video into mu
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/Video-Splitter.git
-    cd Video-Splitter
+    git clone https://github.com/WillGolden80742/splitVideo.git
+    cd splitVideo
     ```
 
 2. Run the script:
