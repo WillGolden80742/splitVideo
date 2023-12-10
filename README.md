@@ -1,5 +1,3 @@
----
-
 # Video Splitter Project
 
 This Python script utilizes the `moviepy` library to split a given video into multiple parts based on user-specified duration limits. Each part is then saved as a separate video file.
