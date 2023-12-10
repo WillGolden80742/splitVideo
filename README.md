@@ -63,7 +63,3 @@ The script will create a directory named `example_video_parts` and save split vi
 - If you encounter any issues, ensure that your Python environment meets the prerequisites.
 
 Feel free to contribute or report issues!
-
----
-
-This README provides users with information on how to use the script, what dependencies
