@@ -1,5 +1,3 @@
-Certainly! Below is a sample README.md file for your GitHub project based on the provided code:
-
 ---
 
 # Video Splitter Project
