@@ -19,7 +19,7 @@ This Python script utilizes the `moviepy` library to split a given video into mu
 2. Run the script:
 
     ```bash
-    python video_splitter.py
+    python splitVideo.py
     ```
 
 3. Follow the on-screen prompts to provide the file path of the video and set the duration limit for each split.
